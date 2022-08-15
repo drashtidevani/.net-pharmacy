@@ -1,0 +1,25 @@
+C:\Users\Notebook\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Notebook\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Notebook\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Notebook\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\Notebook\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.splash.resources
+C:\Users\Notebook\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Notebook\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\pharmacy manegement systems.vbproj.GenerateResource.Cache
+C:\Users\Notebook\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Notebook\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Notebook\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Notebook\Documents\Visual Studio 2010\Projects\pharmacy manegement systems\pharmacy manegement systems\bin\Debug\pharmacy manegement systems.exe
+C:\Users\Notebook\Documents\Visual Studio 2010\Projects\pharmacy manegement systems\pharmacy manegement systems\bin\Debug\pharmacy manegement systems.pdb
+C:\Users\Notebook\Documents\Visual Studio 2010\Projects\pharmacy manegement systems\pharmacy manegement systems\bin\Debug\pharmacy manegement systems.xml
+C:\Users\Notebook\Documents\Visual Studio 2010\Projects\pharmacy manegement systems\pharmacy manegement systems\obj\x86\Debug\WindowsApplication1.Login.resources
+C:\Users\Notebook\Documents\Visual Studio 2010\Projects\pharmacy manegement systems\pharmacy manegement systems\obj\x86\Debug\WindowsApplication1.splash.resources
+C:\Users\Notebook\Documents\Visual Studio 2010\Projects\pharmacy manegement systems\pharmacy manegement systems\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Notebook\Documents\Visual Studio 2010\Projects\pharmacy manegement systems\pharmacy manegement systems\obj\x86\Debug\pharmacy manegement systems.vbproj.GenerateResource.Cache
+C:\Users\Notebook\Documents\Visual Studio 2010\Projects\pharmacy manegement systems\pharmacy manegement systems\obj\x86\Debug\pharmacy manegement systems.exe
+C:\Users\Notebook\Documents\Visual Studio 2010\Projects\pharmacy manegement systems\pharmacy manegement systems\obj\x86\Debug\pharmacy manegement systems.xml
+C:\Users\Notebook\Documents\Visual Studio 2010\Projects\pharmacy manegement systems\pharmacy manegement systems\obj\x86\Debug\pharmacy manegement systems.pdb
+C:\Users\Notebook\Documents\Visual Studio 2010\Projects\pharmacy manegement systems\pharmacy manegement systems\obj\x86\Debug\WindowsApplication1.Home.resources
+C:\Users\Notebook\Documents\Visual Studio 2010\Projects\pharmacy manegement systems\pharmacy manegement systems\obj\x86\Debug\WindowsApplication1.Manufacturer.resources
+C:\Users\Notebook\Documents\Visual Studio 2010\Projects\pharmacy manegement systems\pharmacy manegement systems\obj\x86\Debug\WindowsApplication1.Agent.resources
+C:\Users\Notebook\Documents\Visual Studio 2010\Projects\pharmacy manegement systems\pharmacy manegement systems\obj\x86\Debug\WindowsApplication1.Billing.resources
+C:\Users\Notebook\documents\visual studio 2010\Projects\pharmacy manegement systems\pharmacy manegement systems\obj\x86\Debug\WindowsApplication1.medicine.resources
